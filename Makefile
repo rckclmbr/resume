@@ -5,4 +5,4 @@ main: resume.md
 	cp resume.html resume.tmp.html
 	sed -i -e 's/"normal"/"pdf"/g' resume.tmp.html
 	wkpdf --source resume.tmp.html --output resume.pdf -m 10 50
-	rm resume.tmp.html
+	rm resume.tmp.html*
