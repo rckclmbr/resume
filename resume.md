@@ -126,10 +126,9 @@ Josh is a young rockstar with lots of enthusiasm, a great natural sense for good
 
 Josh Braegger is a sharp engineer that’s passionate about solving problems. He literally devours them and leaves no stone unturned. He digs in and gets things done. He’s been a key engineer on several of our larger initiatives such as Community. He’s now a mentor and has grown into a key resource for all of engineering. Over the past two years Josh has also built credibility with his business counterparts and during much of this time he was also completing a CS degree with Weber State. Josh creates a fun working environment and welcomes change and opportunities for learning.”
 
--- Joel Brazle, Director of Software Development, Backcountry.com
+-- Joel Brazle, Director of Product at Zillow (Previous Director of Software Development, Backcountry.com)
 
 ---------
 
 [PDF](https://raw.github.com/rckclmbr/resume/master/resume.pdf)<br />
-[HTML](https://raw.github.com/rckclmbr/resume/master/resume.html)<br />
 [Markdown](https://raw.github.com/rckclmbr/resume/master/resume.md)
