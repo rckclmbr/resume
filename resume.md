@@ -35,6 +35,7 @@ Technologies and Frameworks: Django, Android, JSON, LevelDB, MongoDB, Twisted, j
 A few coworkers went to start a company, and I wanted to join in. Cofounded with ex-Mozy employees, we set off to take cloud storage out of the traditional "cloud", and into users homes.
 
 Primary responsibilities:
+
 * Developed an Android client that communicates with our distributed filesystem
 * Built a pleasant API for hiding complex DHT and sync logic
 * Some ops work for provisioning and maintaining servers in EC2, ensuring scalability goals are met
