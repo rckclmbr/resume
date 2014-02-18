@@ -11,7 +11,7 @@ Bountiful, UT  84010<br />
 
 ### Objective
 
-Currently seeking a generalist programming position with a brilliant team who can work together to build the impossible.
+Currently seeking a software position with a brilliant team, and help provide the necessary skills and connections to eventually start my own company.
 
 ------
 
@@ -27,9 +27,20 @@ Technologies and Frameworks: Django, Android, JSON, LevelDB, MongoDB, Twisted, j
 
 ### Work Experience
 
+#### GaiaGPS (Contract)
+(Bountiful, UT)<br />
+  __01/2014 - present__<br />
+*Senior Software Developer*
+
+Although I have worked with GaiaGPS off and on doing contract work in the past several years, since leaving Space Monkey, I have been doing full-time contract work. Responsibilities include:
+
+* Built initial iteration of cloud functionality for cloud.gaiagps.com, for sync between multiple devices
+* Built web map and printing feature for GaiaCloud, using Leaflet
+* Do maintenance and minor bugixes on trailbehind.com
+
 #### Space Monkey
 (Salt Lake City, UT)<br />
-  __02/2013 - present__<br />
+  __02/2013 - 01/2014__<br />
 *Senior Software Developer*
 
 A few coworkers went to start a company, and I wanted to join in. Cofounded with ex-Mozy employees, we set off to take cloud storage out of the traditional "cloud", and into users homes.
@@ -113,7 +124,7 @@ Graduated Cum Laude with a Bachelors of Science
 
 Running - Have run 1 half-ironman, 4 marathons, and countless of smaller races.<br />
 Snowboarding, rock climbing, and outdoor sports<br />
-Scifi - My top 3 movies are Gattaca, Fifth Element, and Prometheus
+Scifi - My top 3 movies are Gattaca, Fifth Element, and Gravity
 
 ---------
 
