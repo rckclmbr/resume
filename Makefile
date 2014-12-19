@@ -4,5 +4,6 @@ main: resume.md
 	cat template/header.html resume.tmp.html template/footer.html > resume.html
 	cp resume.html resume.tmp.html
 	sed -i -e 's/"normal"/"pdf"/g' resume.tmp.html
-	wkpdf --source resume.tmp.html --output resume.pdf -m 10 50
+#	wkpdf --source resume.tmp.html --output resume.pdf -m 10 50
+	wkhtmltopdf resume.tmp.html resume.pdf
 	rm resume.tmp.html*

@@ -11,7 +11,7 @@ Bountiful, UT  84010<br />
 
 ### Objective
 
-Currently seeking a software position with a brilliant team, and help provide the necessary skills and connections to eventually start my own company.
+Currently seeking a software position with a brilliant team, to be on the bleeding edge working to provide end users with new experiences.
 
 ------
 
@@ -19,24 +19,28 @@ Currently seeking a software position with a brilliant team, and help provide th
 
 Industries: Ecommerce, Music streaming, Distributed file storage, Realtime notifications
 
-Languages, Markups, Transports, and Formats: Python, Java, Javascript, Perl, Go, bash, HTTP, SSL, JSON, protobufs, XML, Regex, HTML, CSS
+Languages, Markups, Transports, and Formats: Python, Java, Javascript, Go, Perl, bash, HTTP, SSL, JSON, protobufs, XML, Regex, HTML, CSS
 
-Technologies and Frameworks: Django, Android, JSON, LevelDB, MongoDB, Twisted, jQuery, YUI, Git, SVN, CVS, openssl, httpd, nginx, docker, puppet, memcached, MogileFS, Postgres, MySQL, JIRA, Trello, Rally, Sprintly, Bugzilla, Jersey, Spring, Hibernate, Wicket, Eclipse, Interchange.
+Technologies and Frameworks: Django, Android, JSON, LevelDB, MongoDB, Twisted, jQuery, Git, openssl, httpd, nginx, docker, puppet, memcached, Postgres, MySQL, AWS, Trello, Jersey, Spring, Hibernate.
 
 ------
 
 ### Work Experience
 
-#### GaiaGPS (Contract)
+#### GaiaGPS
 (Bountiful, UT)<br />
   __01/2014 - present__<br />
 *Senior Software Developer*
 
-Although I have worked with GaiaGPS off and on doing contract work in the past several years, since leaving Space Monkey, I have been doing full-time contract work. Responsibilities include:
+Although I have worked with GaiaGPS off and on doing contract work in the past several years, since leaving Space Monkey, I have been doing full-time work. Responsibilities include:
 
-* Built initial iteration of cloud functionality for cloud.gaiagps.com, for sync between multiple devices
-* Built web map and printing feature for GaiaCloud, using Leaflet
-* Do maintenance and minor bugixes on trailbehind.com
+* Built initial iteration of cloud functionality for www.gaiagps.com, www.tryskipper.com, and cloud.hemaexplorer.com.au for sync between multiple devices.
+* Built web map and printing feature for GaiaCloud, using Leaflet and AngularJS
+* Built a production environment on coreos/docker in Amazon Web Services, and deployment tools around fleet.
+* Adhered to 12factor methodology (http://12factor.net/) for application
+* Added ability to purchase subscriptions through Stripe
+* Maintained GaiaGPS Android application
+
 
 #### Space Monkey
 (Salt Lake City, UT)<br />
@@ -142,5 +146,7 @@ Josh Braegger is a sharp engineer that’s passionate about solving problems. He
 
 ---------
 
+<!--
 [PDF](https://raw.github.com/rckclmbr/resume/master/resume.pdf)<br />
 [Markdown](https://raw.github.com/rckclmbr/resume/master/resume.md)
+-->
