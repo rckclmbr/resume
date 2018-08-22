@@ -1,51 +1,57 @@
 <div style="float: right">
-349 N 350 W<br />
-Bountiful, UT  84010<br />
+Foster City, CA  94404<br />
 (801) 502-3409<br />
 </div>
 
-# Joshua R. Braegger
-### Senior Software Engineer
+# Josh Braegger
+### Software Engineer
 
 ------
 
 ### Objective
 
-Currently seeking a software position with a brilliant team, to be on the bleeding edge working to provide end users with new experiences.
+To give everyone the same opportunities that I've had in life.  To help the human race progress.
 
-------
+As far as what environment I thrive in and am looking for:
 
-### Technical Skills
-
-Industries: Ecommerce, Music streaming, Distributed file storage, Realtime notifications
-
-Languages, Markups, Transports, and Formats: Python, Java, Javascript, Go, Perl, bash, HTTP, SSL, JSON, protobufs, XML, Regex, HTML, CSS
-
-Technologies and Frameworks: Django, Android, JSON, LevelDB, MongoDB, Twisted, jQuery, Git, openssl, httpd, nginx, docker, puppet, memcached, Postgres, MySQL, AWS, Trello, Jersey, Spring, Hibernate.
+* I have strong technical skills, but find solving the human problems a more interesting and rewarding challenge.
+* Have experience leading and mentoring, but prefer to lead by example.  As a result, prefer to remain an individual contributor.
 
 ------
 
 ### Work Experience
 
+#### Facebook
+(Menlo Park, CA)</br />
+ __08/2015 - present__<br />
+*Software Engineer*
+
+Helped connect 100 million people to the internet -- https://techcrunch.com/2018/04/25/internet-org-100-million/
+
+* Helped build and scale Free Basics and other Internet.org projects
+* Worked on the "Shared Infra" team to help build common infrastructure across Connectivity projects (https://connectivity.fb.com/)
+* Set product quality goals that required collaboration with multiple teams throughout the org
+* Worked with and built tooling to help our partners scale.  This includes management, deployment, and monitoring software
+* Created and maintained a cross-team open forum for gathering collective cross-functional feedback (aka "Design Reviews")
+* Mentored and collaborated with many engineers
+
 #### GaiaGPS
 (Bountiful, UT)<br />
-  __01/2014 - present__<br />
-*Senior Software Developer*
+  __01/2014 - 06/2015__<br />
+*Software Engineer*
 
 Although I have worked with GaiaGPS off and on doing contract work in the past several years, since leaving Space Monkey, I have been doing full-time work. Responsibilities include:
 
 * Built initial iteration of cloud functionality for www.gaiagps.com, www.tryskipper.com, and cloud.hemaexplorer.com.au for sync between multiple devices.
 * Built web map and printing feature for GaiaCloud, using Leaflet and AngularJS
 * Built a production environment on coreos/docker in Amazon Web Services, and deployment tools around fleet.
-* Adhered to 12factor methodology (http://12factor.net/) for application
 * Added ability to purchase subscriptions through Stripe
 * Maintained GaiaGPS Android application
-
 
 #### Space Monkey
 (Salt Lake City, UT)<br />
   __02/2013 - 01/2014__<br />
-*Senior Software Developer*
+*Software Engineer*
 
 A few coworkers went to start a company, and I wanted to join in. Cofounded with ex-Mozy employees, we set off to take cloud storage out of the traditional "cloud", and into users homes.
 
@@ -60,7 +66,7 @@ Programmed in Python, Java (Android), Go
 #### Backcountry.com
 (Park City, UT)<br />
    __01/2012 - 02/2013__<br />
-*Senior Software Developer / Team Lead*
+*Software Engineer / Team Lead*
 
 I rejoined Backcountry.com to help with their replatforming project, to take their front-end architecture from Interchange (perl) to ATG (java).  New things done that aren't mentioned below are:
 
@@ -73,7 +79,7 @@ I rejoined Backcountry.com to help with their replatforming project, to take the
 #### Beyond Oblivion
 (Salt Lake City, UT)<br />
   __11/2010 - 12/2012__<br />
-*Senior Software Developer*
+*Software Engineer*
 
 Joined Beyond Oblivion because it provided some interesting challenges in that it was a startup so I'd be wearing many hats, the problem space (music) was interesting, scalability was a concern, and the data retrieved could be incredibly interesting.  In the time I was employed, I was able to:
 
@@ -90,7 +96,7 @@ Used Python, Django, Twisted, MongoDB, Hadoop, Hive, Mahout, MySQL, among others
 #### Backcountry.com
 (Park City, UT)<br />
    __2/2007 - 11/2010__<br />
-*Senior Software Engineer*
+*Software Engineer*
 
 I've been working on Backcountry.com's Community project since its inception, bringing product questions and answers, reviews, gear photos, and user profiles from the minds of visionaries to actual implementation. It consists of a robust, event-driven model providing real-time collaboration to hundreds of thousands of visitors of our website. It was built using perl and the Interchange framework, Rose::DB ORM, memcached, mogilefs, and Moose.  Also took advantage of S3 and EC2.
 
@@ -99,14 +105,14 @@ In addition to doing actual implementation, I have also been responsible for rap
 #### Notify.me
 (Remote)<br />
   __10/2008 - 1/2010__<br />
-*Lead Developer*
+*Software Engineer*
 
 Moonlighted at notify.me to "deliver time sensitive information directly to the user in near real time", particularly because I was interested in the event-driven architecture and distributed systems.  I worked 10-20 hours per week while employed at Backcountry.com.  Worked on backend features such as improving malformed HTML in websites we consumed, making it more readable for our parser, and various website improvements, including providing a "notification bar" (similar to the Digg bar) on click-thru pages.  Used perl, Catalyst, postgres. 
 
 #### Mortgage Computer
 (Ogden, UT)<br />
    __03/2006 - 02/2007__<br />
-*Software Developer*
+*Software Engineer*
 
 Developed a web-based loan servicing application for banks and credit unions across the country.  Used Coldfusion, with SQL Server 2000.  Worked on converting a COBOL flat-file based system into a relational, object-oriented model.
 
@@ -118,31 +124,14 @@ Gained experience with Java, Javascript, PHP, and AJAX.
 
 Weber State University<br />
 Graduated: 2008<br />
-Major: Computer Science<br />
-GPA: 3.74<br />
-Graduated Cum Laude with a Bachelors of Science
+Graduated Cum Laude with a Bachelors of Science (CS)
 
 ---------
 
 ### Hobbies / Interests
 
-Running - Have run 1 half-ironman, 4 marathons, and countless of smaller races.<br />
-Snowboarding, rock climbing, and outdoor sports<br />
-Scifi - My top 3 movies are Gattaca, Fifth Element, and Gravity
-
----------
-
-### Recommendations
-
-(From LinkedIn - http://www.linkedin.com/in/joshbraegger)
-
-Josh is a young rockstar with lots of enthusiasm, a great natural sense for good software design, and a solid pragmatic head on his shoulders. He produces a lot of high quality solutions within the Backcountry organization and is a fantastic asset that just gets it done. Josh is passionate about his work and will invest the time and energy to work through a tough problem as a group and as an individual. Despite being right most of the time, Josh isn't a big ego and has the respect and admiration of his peers.”
-
--- Chris Alef, current Amazon employee (previously at Backcountry.com)
-
-Josh Braegger is a sharp engineer that’s passionate about solving problems. He literally devours them and leaves no stone unturned. He digs in and gets things done. He’s been a key engineer on several of our larger initiatives such as Community. He’s now a mentor and has grown into a key resource for all of engineering. Over the past two years Josh has also built credibility with his business counterparts and during much of this time he was also completing a CS degree with Weber State. Josh creates a fun working environment and welcomes change and opportunities for learning.”
-
--- Joel Brazle, Director of Product at Zillow (Previous Director of Software Development, Backcountry.com)
+Cycling - mostly to work and back.<br />
+Video games - so I can keep up with my son.<br />
 
 ---------
 

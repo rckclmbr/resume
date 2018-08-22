@@ -5,5 +5,5 @@ main: resume.md
 	cp resume.html resume.tmp.html
 	sed -i -e 's/"normal"/"pdf"/g' resume.tmp.html
 #	wkpdf --source resume.tmp.html --output resume.pdf -m 10 50
-	wkhtmltopdf resume.tmp.html resume.pdf
+	xvfb-run -a -s "-screen 0 640x480x16" wkhtmltopdf resume.tmp.html resume.pdf
 	rm resume.tmp.html*
